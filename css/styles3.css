@@ -47,9 +47,9 @@ body {
 .controls {
 	/*overflow: hidden;*/
 	overflow: hidden;
-	font-size: 40px;
+	font-size: 65px;
     display: inline-block;
-    padding: 0.3em 1.5em;
+    padding: 0.2em 1.0em;
     text-decoration: none;
     background: #668ad8;/*ボタン色*/
     color: #FFF;
